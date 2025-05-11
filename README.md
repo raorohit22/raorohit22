@@ -4,7 +4,7 @@ Hi 👋 My name is Rohit Yadav
 Frontend Web Developer
 ----------------------
 
-I'm a passionate Frontend Developer with 2 years of hands-on experience crafting beautiful, responsive, and high-performance web applications. I specialize in building modern, scalable user interfaces using the latest web technologies.
+I'm a Frontend Developer with 2 years of practical experience building responsive, high-performance web applications. Over the past two years, I’ve consistently written production-level code—translating UI/UX designs into functional, maintainable interfaces using modern frontend technologies.
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [iamrao22@gmail.com](mailto:iamrao22@gmail.com)
